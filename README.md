@@ -1,6 +1,9 @@
 # Cards
+![status](https://travis-ci.org/miltonArango/elixir-cards.svg?branch=master)
 
-**TODO: Add description**
+**Description**
+The complete elixir and phoenix bootcamp and tutorial __cards__ application to illustrate the basics of the elixir language. Added additional CI using travisCI.
+
 
 ## Installation
 
