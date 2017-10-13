@@ -20,3 +20,5 @@ erl_crash.dump
 *.ez
 
 mix.lock
+
+my_deck
